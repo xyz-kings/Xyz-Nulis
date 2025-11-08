@@ -84,9 +84,9 @@ REQUEST_FILE = "request_nulis.txt"
 
 ---
 
-## 📸 Bukti Hasil Gambar
+## 📸 TAMPILAN OUTPUT V1 BETA
 
-![Contoh Output](https://files.catbox.moe/wozyle.jpg)
+![Contoh Output](https://files.catbox.moe/5h1f6d.jpg)
 
 ---
 
