@@ -107,4 +107,3 @@ REQUEST_FILE = "request_nulis.txt"
 ## 💡 Tips
 
 - Gunakan teks bersih tanpa emoji agar hasil lebih stabil.  
-- Kalau ingin tampilan tulisan lain, ganti endpoint `API_URL` ke versi custom API.  
