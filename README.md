@@ -78,7 +78,7 @@ REQUEST_FILE = "request_nulis.txt"
 ╭─────────────────── Hasil ────────────────────╮
 │ Selesai!                                     │
 │ Total 2 gambar dibuat di folder:             │
-│ /storage/emulated/0/NULIS/Sabtu8_j13-m20-d17 │
+│ /storage/emulated/0/NULIS/Sabtu8_j3-20-17 │
 ╰──────────────────────────────────────────────╯
 ```
 
